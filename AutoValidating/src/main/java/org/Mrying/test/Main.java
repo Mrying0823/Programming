@@ -3,6 +3,10 @@ package org.Mrying.test;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * @author 邓和颖
+ */
+
 /*
 编程题
 1.
